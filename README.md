@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
   <ahref="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="apachekafka" width="40" height="40"/>
   </a>
 </p>
 
