@@ -3,7 +3,8 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theodoraraps" alt="theodoraraps" /></a> </p> -->
 
-📫 How to reach me:
+
+<h3 align="left">Connect with me:</h3>
 **theoaraps@gmail.com**
 <!-- - 📄 Know about my experiences [https://www.linkedin.com/in/theodorosarapis/](https://www.linkedin.com/in/theodorosarapis/) -->
 <p align="left">
