@@ -69,6 +69,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="apachekafka" width="50" height="50"/>
   </a>
 </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theodoraraps&langs_count=10&layout=compact)](https://github.com/theodoraraps/github-readme-stats)
