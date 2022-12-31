@@ -5,7 +5,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-**theoaraps@gmail.com**
+
+📫 **theoaraps@gmail.com**
 
 <!-- - 📄 Know about my experiences [https://www.linkedin.com/in/theodorosarapis/](https://www.linkedin.com/in/theodorosarapis/) -->
 <p align="left">
