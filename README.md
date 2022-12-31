@@ -5,10 +5,7 @@
 
 📫 How to reach me:
 **theoaraps@gmail.com**
-
 <!-- - 📄 Know about my experiences [https://www.linkedin.com/in/theodorosarapis/](https://www.linkedin.com/in/theodorosarapis/) -->
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lavredis goume" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavredis goume" height="30" width="40" /></a>
 </p>
