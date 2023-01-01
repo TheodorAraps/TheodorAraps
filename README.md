@@ -69,3 +69,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="apachekafka" width="50" height="50"/>
   </a>
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,nodejs,react,html,css,java,mysql,dart,eclipse,figma,flutter,git,Linux,vscode)](https://skillicons.dev)
