@@ -71,4 +71,7 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
   </a>
+  <a href="https://www.adobe.com/gr_en/products/photoshop/landpb.html?mv=search&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAiA2L-dBhACEiwAu8Q9YIGYilWu0skAIxC2wek6m_GkY1IEMNpBrTfmJo8PYzaELLhtEevDvxoCVooQAvD_BwE:G:s&s_kwcid=AL!3085!3!544585392236!e!!g!!photoshop!1675832362!70775195211" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+  </a>
 </p>
